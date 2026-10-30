@@ -1,3 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RandomMovieApplication</string>
+    <string name="app_name">Random Film</string>
+    <string name="screen_title">What should I watch?</string>
+    <string name="initial_message">Tap the button to choose a film</string>
+    <string name="show_film">Random film</string>
+    <string name="reset">Reset</string>
+    <string name="no_movies">No films left. Tap Reset to start again.</string>
+    <string name="remaining_count">Films remaining: %1$d</string>
+
+    <string-array name="movies">
+        <item>The Matrix</item>>
+        <item>Enemy</item>>
+        <item>The Green Mile</item>>
+        <item>Nightcrawler</item>>
+        <item>Zodiac</item>>
+        <item>Prisoners</item>>
+        <item>Blade Runner</item>>
+        <item>The Scythian</item>>
+    </string-array>>
+
+
 </resources>
